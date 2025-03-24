@@ -1,4 +1,4 @@
-package com.arjuncodes.springemaildemo;
+package com.devbhaskar.springemaildemo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
